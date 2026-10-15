@@ -15,4 +15,5 @@ Antes de la estadía, el cliente puede modificar o cancelar la reserva y realiza
 | N° | Diagrama | Trabajo | Representa |
 | --- | --- | --- | --- |
 | 1 | Casos de uso | TPE1 – Modelado de comportamiento mediante casos de uso | 5 actores (3 primarios y 2 secundarios externos) y 14 casos de uso, con 5 <<include>>, 2 <<extend>> y la generalización Supervisor -> Empleado |
-| 2 | Comunicación | TPE2 – Diagrama de comunicación y diagrama de secuencia | Colaboración entre Cliente, Sistema, Pasarela de Pagos y Servicio de Correo en el CU-02 Realizar reserva, con mensajes numerados |
+| 2 | Comunicación | TPE2 – Diagrama de comunicación y diagrama de secuencia | Colaboración entre Cliente, :SistemaTravelNow, :PasarelaPagos y :ServicioCorreoElectronico en el CU-02 Realizar reserva, con mensajes numerados |
+| 3 | Secuencia | TPE2 – Diagrama de comunicación y diagrama de secuencia | El mismo escenario del CU-02 ordenado en el tiempo, de solicitarReserva() a reservaConfirmada.|
