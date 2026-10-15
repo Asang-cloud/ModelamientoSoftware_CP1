@@ -1,6 +1,6 @@
 **Diagrama de comunicacion**
 
-https://lucid.app/lucidspark/99f98d1c-7dca-450b-8bbd-b3331189abc3/edit?viewport_loc=-142%2C-94%2C1528%2C732%2C0_0&invitationId=inv_693e8b4b-0fe6-4156-b935-ba7043676edc
+https://lucid.app/lucidspark/99f98d1c-7dca-450b-8bbd-b3331189abc3/edit?viewport_loc=-508%2C-215%2C2037%2C976%2C0_0&invitationId=inv_693e8b4b-0fe6-4156-b935-ba7043676edc
 
 **Diagrama de Secuencia**
 
