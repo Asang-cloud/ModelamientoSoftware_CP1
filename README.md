@@ -11,3 +11,4 @@ Antes de la estadía, el cliente puede modificar o cancelar la reserva y realiza
 * La disponibilidad se comprueba otra vez al confirmar; si la última habitación ya fue asignada, se pide una nueva selección.
 * Modificar o cancelar solo procede antes de la estadía y dentro de las condiciones definidas.
 * Las modificaciones excepcionales requieren autorización del supervisor.
+|N°|Diagrama|Trabajo|Representa|
