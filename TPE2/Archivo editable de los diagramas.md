@@ -1,7 +1,7 @@
 **Diagrama de comunicacion**
 
-https://lucid.app/lucidchart/91c95098-d0cb-4893-ba2e3c5141896469/edit?viewport_loc=17%2C119%2C984%2C833%2C0_0&invitationId=inv_f2425bc6-ecda-4ac3-a00f0e9162e641c5 
+https://lucid.app/lucidspark/99f98d1c-7dca-450b-8bbd-b3331189abc3/edit?viewport_loc=-142%2C-94%2C1528%2C732%2C0_0&invitationId=inv_693e8b4b-0fe6-4156-b935-ba7043676edc
 
 **Diagrama de Secuencia**
 
-https://lucid.app/lucidchart/6c4eb327-5a00-4e70-b707decd62c01609/edit?view_items=~60C4msY9_3r&page=0_0&invitationId=inv_af8e0c99-b16a-45e7-9e73-be0b5a8360b7 
+https://lucid.app/lucidspark/f1a5f428-4ce3-491d-b33f-53217850f1a7/edit?viewport_loc=-667%2C-332%2C2273%2C1089%2C0_0&invitationId=inv_16d69345-6c8d-4148-88be-db75d58e0a35
